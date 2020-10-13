@@ -1,5 +1,5 @@
 ## Groups ##
-* [Group A - Gestão de Hotel](#group_a)
+* [Group A - 🏨 Gestão de Hotel](#group_a)
 * [Group B](#group_b)
 * [Group C - ☕ Coffee Shop](#group_c)
 * [Group D](#group_d)
@@ -7,7 +7,7 @@
 * [Group F](#group_f)
 
 <a name="group_a"></a>
-## Group A - Gestão de Hotel
+## Group A - 🏨 Gestão de Hotel
 ### Participants
 * Diogo	Henriques
 * Francisco	Jacinto
