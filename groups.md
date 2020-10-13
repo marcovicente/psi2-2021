@@ -1,7 +1,7 @@
 ## Groups ##
 * [Group A](#group_a)
 * [Group B](#group_b)
-* [Group ☕ Coffee Shop](#group_c)
+* [Group C - ☕ Coffee Shop](#group_c)
 * [Group D](#group_d)
 * [Group E](#group_e)
 * [Group F](#group_f)
@@ -68,7 +68,7 @@
 * Stuff going very well
 
 <a name="group_c"></a>
-## Group Coffee Shop ☕
+## Group C - ☕ Coffee Shop
 ### Participants
 * André	Correia
 * Cláudio	Martins
@@ -79,7 +79,7 @@
 - [X] User Stories
 - [ ] Planning
 - [X] Sprint Planning #1 
-- [X] [Product Backlog](https://jira.com/)
+- [X] [Product Backlog](https://projetosi.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=PSI)
 - [ ] [Sources Web](https://github.com/)
 - [ ] [Sources Android](https://github.com/)
 - [ ] Architecture
