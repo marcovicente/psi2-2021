@@ -1,7 +1,7 @@
 ## Groups ##
 * [Group A](#group_a)
 * [Group B](#group_b)
-* [Group C](#group_c)
+* Coffee Shop ☕ (#group_c)
 * [Group D](#group_d)
 * [Group E](#group_e)
 * [Group F](#group_f)
@@ -68,18 +68,18 @@
 * Stuff going very well
 
 <a name="group_c"></a>
-## Group [THEME]
+## Group Coffee Shop ☕
 ### Participants
 * André	Correia
 * Cláudio	Martins
 * Tiago	Santos
 ### Status
-- [ ] Product Vision
-- [ ] Business Model Canvas
-- [ ] User Stories
+- [X] Product Vision
+- [X] Business Model Canvas
+- [X] User Stories
 - [ ] Planning
-- [ ] Sprint Planning #1 
-- [ ] [Product Backlog](https://trello.com/)
+- [X] Sprint Planning #1 
+- [X] [Product Backlog](https://jira.com/)
 - [ ] [Sources Web](https://github.com/)
 - [ ] [Sources Android](https://github.com/)
 - [ ] Architecture
