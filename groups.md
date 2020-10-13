@@ -1,5 +1,5 @@
 ## Groups ##
-* [Group A](#group_a)
+* [Group A - Gestão de Hotel](#group_a)
 * [Group B](#group_b)
 * [Group C - ☕ Coffee Shop](#group_c)
 * [Group D](#group_d)
@@ -7,18 +7,18 @@
 * [Group F](#group_f)
 
 <a name="group_a"></a>
-## Group [THEME]
+## Group A - Gestão de Hotel
 ### Participants
 * Diogo	Henriques
 * Francisco	Jacinto
 * João	Neves
 ### Status
-- [ ] Product Vision
-- [ ] Business Model Canvas
-- [ ] User Stories
+- [X] Product Vision
+- [X] Business Model Canvas
+- [X] User Stories
 - [ ] Planning
-- [ ] Sprint Planning #1 
-- [ ] [Product Backlog](https://trello.com/)
+- [X] Sprint Planning #1 
+- [X] [Product Backlog](https://joaoneves.atlassian.net/jira/software/projects/PROJFINAL/boards/5)
 - [ ] [Sources Web](https://github.com/)
 - [ ] [Sources Android](https://github.com/)
 - [ ] Architecture
