@@ -1,7 +1,7 @@
 ## Groups ##
 * [Group A](#group_a)
 * [Group B](#group_b)
-* [Coffee Shop ☕](#group_c)
+* [Group ☕ Coffee Shop](#group_c)
 * [Group D](#group_d)
 * [Group E](#group_e)
 * [Group F](#group_f)
