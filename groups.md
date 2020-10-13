@@ -1,8 +1,8 @@
 ## Groups ##
 * [Group A - 🏨 Gestão de Hotel](#group_a)
-* [Group B](#group_b)
+* [Group B - Gestão de Micro-empresas](#group_b)
 * [Group C - ☕ Coffee Shop](#group_c)
-* [Group D](#group_d)
+* [Group D - Grocelivery](#group_d)
 * [Group E](#group_e)
 * [Group F](#group_f)
 
@@ -38,16 +38,16 @@
 * Stuff going very well
 
 <a name="group_b"></a>
-## Group [THEME]
+## Group B - Gestão de Micro-empresas
 ### Participants
 * Cidália	Pinto
 * Rodolfo	Barreira
 ### Status
-- [ ] Product Vision
-- [ ] Business Model Canvas
-- [ ] User Stories
+- [X] Product Vision
+- [X] Business Model Canvas
+- [X] User Stories
 - [ ] Planning
-- [ ] Sprint Planning #1 
+- [X] Sprint Planning #1 
 - [X] [Product Backlog](https://trello.com/b/Pz1RHaaM/administrationwest)
 - [X] [Sources Web](https://github.com/Tjay98/administration_west)
 - [ ] [Sources Android](https://github.com/)
@@ -99,18 +99,18 @@
 * Stuff going very well
 
 <a name="group_d"></a>
-## Group [THEME]
+## Group D - Grocelivery
 ### Participants
 * André	Santos
 * Francisco	Matias
 * Pedro	Monteiro
 ### Status
-- [ ] Product Vision
-- [ ] Business Model Canvas
-- [ ] User Stories
+- [X] Product Vision
+- [X] Business Model Canvas
+- [X] User Stories
 - [ ] Planning
-- [ ] Sprint Planning #1 
-- [ ] [Product Backlog](https://trello.com/)
+- [X] Sprint Planning #1 
+- [X] [Product Backlog](https://jira.com/)
 - [ ] [Sources Web](https://github.com/)
 - [ ] [Sources Android](https://github.com/)
 - [ ] Architecture
