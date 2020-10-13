@@ -48,8 +48,8 @@
 - [ ] User Stories
 - [ ] Planning
 - [ ] Sprint Planning #1 
-- [ ] [Product Backlog](https://trello.com/)
-- [ ] [Sources Web](https://github.com/)
+- [X] [Product Backlog](https://trello.com/b/Pz1RHaaM/administrationwest)
+- [X] [Sources Web](https://github.com/Tjay98/administration_west)
 - [ ] [Sources Android](https://github.com/)
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
