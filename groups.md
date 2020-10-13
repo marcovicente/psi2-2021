@@ -5,11 +5,11 @@
 - [ ] Product Vision
 - [ ] Business Model Canvas
 - [ ] User Stories
+- [ ] Planning
+- [ ] Sprint Planning #1 
 - [ ] [Product Backlog](https://trello.com/)
 - [ ] [Sources Web](https://github.com/)
 - [ ] [Sources Android](https://github.com/)
-- [ ] Planning
-- [ ] Sprint Planning #1 (Database) 
 - [ ] Architecture
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
