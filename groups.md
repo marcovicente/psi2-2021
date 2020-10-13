@@ -3,8 +3,8 @@
 * [Group B - Gestão de Micro-empresas](#group_b)
 * [Group C - ☕ Coffee Shop](#group_c)
 * [Group D - Grocelivery](#group_d)
-* [Group E](#group_e)
-* [Group F](#group_f)
+* [Group E - Agenda](#group_e)
+* [Group F - OsteoClinic](#group_f)
 
 <a name="group_a"></a>
 ## Group A - 🏨 Gestão de Hotel
@@ -130,18 +130,18 @@
 * Stuff going very well
 
 <a name="group_e"></a>
-## Group [THEME]
+## Group E - Agenda
 ### Participants
 * Gabriel	Miranda
 * José	Ramos
 * Ricardo	Silva
 ### Status
-- [ ] Product Vision
-- [ ] Business Model Canvas
-- [ ] User Stories
+- [X] Product Vision
+- [X] Business Model Canvas
+- [X] User Stories
 - [ ] Planning
 - [ ] Sprint Planning #1 
-- [ ] [Product Backlog](https://trello.com/)
+- [X] [Product Backlog](https://trello.com/)
 - [ ] [Sources Web](https://github.com/)
 - [ ] [Sources Android](https://github.com/)
 - [ ] Architecture
@@ -161,16 +161,16 @@
 * Stuff going very well
 
 <a name="group_f"></a>
-## Group [THEME]
+## Group F - OsteoClinic
 ### Participants
 * João	Brigido
 * João	Duarte
 ### Status
-- [ ] Product Vision
-- [ ] Business Model Canvas
-- [ ] User Stories
+- [X] Product Vision
+- [X] Business Model Canvas
+- [X] User Stories
 - [ ] Planning
-- [ ] Sprint Planning #1 
+- [X] Sprint Planning #1 
 - [ ] [Product Backlog](https://trello.com/)
 - [ ] [Sources Web](https://github.com/)
 - [ ] [Sources Android](https://github.com/)
