@@ -1,3 +1,12 @@
+## Groups ##
+* [Group A](#group_a)
+* [Group B](#group_b)
+* [Group C](#group_c)
+* [Group D](#group_d)
+* [Group E](#group_e)
+* [Group F](#group_f)
+
+<a name="group_a"></a>
 ## Group [THEME]
 ### Participants
 * Diogo	Henriques
@@ -28,6 +37,7 @@
 ### I Like
 * Stuff going very well
 
+<a name="group_b"></a>
 ## Group [THEME]
 ### Participants
 * Cidália	Pinto
@@ -57,6 +67,7 @@
 ### I Like
 * Stuff going very well
 
+<a name="group_c"></a>
 ## Group [THEME]
 ### Participants
 * André	Correia
@@ -87,6 +98,7 @@
 ### I Like
 * Stuff going very well
 
+<a name="group_d"></a>
 ## Group [THEME]
 ### Participants
 * André	Santos
@@ -117,6 +129,7 @@
 ### I Like
 * Stuff going very well
 
+<a name="group_e"></a>
 ## Group [THEME]
 ### Participants
 * Gabriel	Miranda
@@ -147,6 +160,7 @@
 ### I Like
 * Stuff going very well
 
+<a name="group_f"></a>
 ## Group [THEME]
 ### Participants
 * João	Brigido
