@@ -3,9 +3,11 @@
 * Aluno 1
 ### Status
 - [ ] Product Vision
-- [ ] [Product Backlog](https://trello.com/b/x0xC5LxZ/projeto-sistemas-de-informa%C3%A7%C3%A3o)
-- [ ] [Sources Web](https://github.com/Tjay98/projetoburguer)
-- [ ] [Sources Android](https://github.com/tiagomiguel218/MakeaBurguer)
+- [ ] Business Model Canvas
+- [ ] User Stories
+- [ ] [Product Backlog](https://trello.com/)
+- [ ] [Sources Web](https://github.com/)
+- [ ] [Sources Android](https://github.com/)
 - [ ] Planning
 - [ ] Sprint Planning #1 (Database) 
 - [ ] Architecture
