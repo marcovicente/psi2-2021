@@ -3,13 +3,13 @@
 
 * [Groups](https://github.com/marcovicente/psi2-2021/blob/master/groups.md)
 
-
 ## Getting Started ##
 * [Product Vision](#product_vision)
 * [Product Backlog](#product_backlog)
 * [User Stories](#user_stories)
 * [Useful Information](#useful_information)
 * [Leaderboard (Kahoots)](#leaderboard)
+
 
 <a name="product_vision"></a>
 ## Product Vision
@@ -40,15 +40,49 @@
 ![picture alt](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Business_Model_Canvas.png/1200px-Business_Model_Canvas.png)
 ` * Osterwalder, Pigneur & al. 2010`
 
-
 ### Additional readings
 * [Product Vision](https://www.scrumalliance.org/community/articles/2009/january/the-product-vision)
 * [Product Vision Statement](https://platinumedge.com/blog/agile-artifacts-product-vision-statement)
 * [Defining your Product Vision](http://www.dummies.com/careers/project-management/four-steps-to-defining-your-product-vision-with-agile-management/)
 * [Business Model Canvas](https://strategyzer.com/canvas/business-model-canvas)
 
+<a name="product_backlog"></a>
+## Product Backlog
+* [What is a Product Backlog](https://www.scrum.org/resources/what-is-a-product-backlog)
+
+<a name="user_stories"></a>
+## User Stories
+As a `<user>` I can `<action>` so that `<result>`
+
+### Levels of User Stories
+* **Epic**
+  * Epics are very large stories
+* **Theme**
+  * Themes are small level epics that contain multiple user stories
+* **User Story**
+  * A short description told from the perspective of the person who desires the new capability
 
 <a name="useful_information"></a>
 ## Useful Information ##
-* [Proposta de Projecto - Documentação](https://wetransfer.com/downloads/f71aa1c174cbbb72e1a61396d69bc02920190930135158/cabd58c59831502b78fac53ad508cbb420190930135158/f8604f)
-* [Learn Git] (https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+<kbd>S</kbd><kbd>O</kbd><kbd>F</kbd><kbd>T</kbd><kbd>W</kbd><kbd>A</kbd><kbd>R</kbd><kbd>E</kbd>
+- [PHP Storm](https://www.jetbrains.com/phpstorm/)
+- [Pencil](https://pencil.evolus.vn/)
+- [Datagrip - Database IDE](https://www.jetbrains.com/datagrip/)
+
+
+<kbd>I</kbd><kbd>N</kbd><kbd>F</kbd><kbd>O</kbd>
+- [Agile Manifesto](http://agilemanifesto.org/)
+- [Free Cloud Environment](https://wedeploy.com)
+- [Free eBooks](https://www.packtpub.com//packt/offers/free-learning/)
+- [Google Cloud Reference Architectures](http://gcp.solutions/)
+
+## Utils ##
+- [Hook.io - Open-source Hosting for Webhooks and Microservices](https://hook.io)
+- [WeDeploy - Apps hosting](https://wedeploy.com/)
+- [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
+- [What Runs](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
+- [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables)
+- [Zeplin](https://app.zeplin.io)
+- [Github Education Pack](https://education.github.com/pack)
+- [Startup Checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html)
