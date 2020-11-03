@@ -16,12 +16,13 @@
 - [X] Product Vision
 - [X] Business Model Canvas
 - [X] User Stories
-- [ ] Planning
+- [ ] Planning (next meeting --> 10 Nov)
 - [X] Sprint Planning #1 
 - [X] [Product Backlog](https://joaoneves.atlassian.net/jira/software/projects/PROJFINAL/boards/5)
-- [ ] [Sources Web](https://github.com/)
-- [ ] [Sources Android](https://github.com/)
-- [ ] Architecture
+- [X] [Sources Web](https://github.com/)
+- [X] [Sources Android](https://github.com/)
+- [X] Architecture
+- [X] Prototype
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
 - [ ] Source Control
