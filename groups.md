@@ -51,8 +51,9 @@
 - [X] Sprint Planning #1 
 - [X] [Product Backlog](https://trello.com/b/Pz1RHaaM/administrationwest)
 - [X] [Sources Web](https://github.com/Tjay98/administration_west)
-- [ ] [Sources Android](https://github.com/)
-- [ ] Architecture
+- [X] [Sources Android](https://github.com/)
+- [X] Architecture
+- [X] Prototype 
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
 - [ ] Source Control
@@ -78,12 +79,13 @@
 - [X] Product Vision
 - [X] Business Model Canvas
 - [X] User Stories
-- [ ] Planning
+- [ ] Planning (10 novembro)
 - [X] Sprint Planning #1 
 - [X] [Product Backlog](https://projetosi.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=PSI)
-- [ ] [Sources Web](https://github.com/)
+- [ ] [Sources Web](https://github.com/) 
 - [ ] [Sources Android](https://github.com/)
-- [ ] Architecture
+- [X] Architecture
+- [X] Prototype
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
 - [ ] Source Control
@@ -109,12 +111,13 @@
 - [X] Product Vision
 - [X] Business Model Canvas
 - [X] User Stories
-- [ ] Planning
+- [ ] Planning (10 novembro)
 - [X] Sprint Planning #1 
 - [X] [Product Backlog](https://jira.com/)
-- [ ] [Sources Web](https://github.com/)
-- [ ] [Sources Android](https://github.com/)
-- [ ] Architecture
+- [ ] [Sources Web](https://github.com/) (10 novembro)
+- [ ] [Sources Android](https://github.com/) (10 novembro)
+- [X] Architecture
+- [X] Prototype
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
 - [ ] Source Control
@@ -140,12 +143,13 @@
 - [X] Product Vision
 - [X] Business Model Canvas
 - [X] User Stories
-- [ ] Planning
+- [ ] Planning (10 novembro)
 - [ ] Sprint Planning #1 
 - [X] [Product Backlog](https://trello.com/)
-- [ ] [Sources Web](https://github.com/)
-- [ ] [Sources Android](https://github.com/)
-- [ ] Architecture
+- [ ] [Sources Web](https://github.com/) (10 novembro)
+- [ ] [Sources Android](https://github.com/) (10 novembro)
+- [X] Architecture
+- [X] Prototype
 - [ ] Database (Diagram, Structure)
 - [ ] Documentation
 - [ ] Source Control
