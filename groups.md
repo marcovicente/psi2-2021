@@ -4,7 +4,7 @@
 * [Group C - ☕ Coffee Shop](#group_c)
 * [Group D - Grocelivery](#group_d)
 * [Group E - Agenda](#group_e)
-* [Group F - OsteoClinic](#group_f)
+* [Group F - 🦴 OsteoClinic](#group_f)
 
 <a name="group_a"></a>
 ## Group A - 🏨 Gestão de Hotel
@@ -162,7 +162,7 @@
 * Stuff going very well
 
 <a name="group_f"></a>
-## Group F - OsteoClinic
+## Group F - 🦴 OsteoClinic
 ### Participants
 * João	Brigido
 * João	Duarte
@@ -170,13 +170,14 @@
 - [X] Product Vision
 - [X] Business Model Canvas
 - [X] User Stories
-- [ ] Planning
+- [ ] Planning (10th november)
 - [X] Sprint Planning #1 
-- [ ] [Product Backlog](https://trello.com/)
-- [ ] [Sources Web](https://github.com/)
-- [ ] [Sources Android](https://github.com/)
-- [ ] Architecture
-- [ ] Database (Diagram, Structure)
+- [X] [Product Backlog](https://trello.com/)
+- [X] [Sources Web](https://github.com/)
+- [X] [Sources Android](https://github.com/)
+- [X] Architecture
+- [X] Prototype
+- [X] Database (Diagram, Structure)
 - [ ] Documentation
 - [ ] Source Control
   - [ ] Git Mobile
