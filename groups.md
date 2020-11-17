@@ -47,7 +47,7 @@
 - [X] Product Vision
 - [X] Business Model Canvas
 - [X] User Stories
-- [ ] Planning
+- [X] Planning
 - [X] Sprint Planning #1 
 - [X] [Product Backlog](https://trello.com/b/Pz1RHaaM/administrationwest)
 - [X] [Sources Web](https://github.com/Tjay98/administration_west)
